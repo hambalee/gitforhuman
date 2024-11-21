@@ -12,3 +12,6 @@
 
 `git commit -m "add new python file"`
 
+`git log`
+
+`git log --oneline`
