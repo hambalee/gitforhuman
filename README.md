@@ -34,3 +34,5 @@ git branch
 delete branch
 `git branch -d marvel`
 
+`git push`
+
