@@ -15,3 +15,14 @@
 `git log`
 
 `git log --oneline`
+
+`git revert COMMIT`
+
+## branch
+
+```
+git branch
+git branch marvel
+git switch marvel
+git branch
+```
