@@ -26,3 +26,11 @@ git branch marvel
 git switch marvel
 git branch
 ```
+
+`git switch main`
+
+`git merge marvel`
+
+delete branch
+`git branch -d marvel`
+
